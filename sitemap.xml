@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chaofanjiadan.github.io/2026/01/29/tmp/</loc>
+    <loc>https://chaofanjiadan.github.io/2026/03/04/Claude-Code-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
     
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/2026/03/04/Claude-Code%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/2026/02/02/Hexo-GitHub-Pages-%E5%AE%9E%E7%8E%B0-Google%E3%80%81Bing-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +157,7 @@
 
   <url>
     <loc>https://chaofanjiadan.github.io/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,84 +165,112 @@
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/CLIP/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Fine-tuning/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Gemini/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Gemini-cli/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/AI%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/GroundingDINO/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/PyQt/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Python/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/PyInstaller/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Annotation/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/Labeling/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/tags/PyTorch/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/tags/Hexo/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/tags/GitHub-Pages/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/tags/%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/tags/Claude-Code/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -233,28 +279,35 @@
   
   <url>
     <loc>https://chaofanjiadan.github.io/categories/Deep-Learning/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/categories/AI-Tools/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/categories/AI/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chaofanjiadan.github.io/categories/Engineering/</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chaofanjiadan.github.io/categories/Blog/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
